@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SENG170 GuidedPCBuilder", "SENG170 GuidedPCBuilder\SENG170 GuidedPCBuilder.csproj", "{D75AA3B9-55ED-45E1-AB1F-C7893F17FA4D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E006D48F-30CB-4341-9319-B7EC7B314783}"
+	ProjectSection(SolutionItems) = preProject
+		Case.cs = Case.cs
+		Component.cs = Component.cs
+		GraphicsCard.cs = GraphicsCard.cs
+		HardDrive.cs = HardDrive.cs
+		MotherBoard.cs = MotherBoard.cs
+		PowerSupply.cs = PowerSupply.cs
+		Processor.cs = Processor.cs
+		RAM.cs = RAM.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D75AA3B9-55ED-45E1-AB1F-C7893F17FA4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D75AA3B9-55ED-45E1-AB1F-C7893F17FA4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D75AA3B9-55ED-45E1-AB1F-C7893F17FA4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D75AA3B9-55ED-45E1-AB1F-C7893F17FA4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A32B0B6F-F790-45B0-9382-2C1CD0927A02}
+	EndGlobalSection
+EndGlobal
