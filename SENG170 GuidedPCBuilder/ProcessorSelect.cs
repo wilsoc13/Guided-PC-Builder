@@ -102,6 +102,7 @@ namespace SENG170_GuidedPCBuilder
         }
 
         //Checks all the child nodes in the tree
+        //Test comment to better get aquainted with git
         private void SetCheck(TreeNode node, bool check)
         {
             foreach (TreeNode n in node.Nodes)
